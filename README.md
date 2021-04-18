@@ -1,0 +1,2 @@
+# Autosender
+Simple discord autosender
