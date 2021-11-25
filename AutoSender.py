@@ -1,4 +1,5 @@
 import requests, json, time
+from colorfull import init; init()
 
 Send_List = []
 
